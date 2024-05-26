@@ -52,4 +52,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iryna-Gry&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iryna-Gry)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=irynagry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
